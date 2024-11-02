@@ -35,6 +35,7 @@ button {
 /* Estilos específicos de los botones */
 #view-button {
     background-color: #6df0c2;
+     color: #000001;
 }
 
 #close-button {
