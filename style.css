@@ -38,8 +38,10 @@ button {
 }
 
 #close-button {
-    display: none;
+     display: none;
     background-color: #fd4d3f;
+    color: azure;
+;
 }
 
 #codey {
